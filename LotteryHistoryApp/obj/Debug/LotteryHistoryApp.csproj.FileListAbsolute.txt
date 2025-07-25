@@ -1,0 +1,13 @@
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\obj\Debug\LotteryHistoryApp.Properties.Resources.resources
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\obj\Debug\LotteryHistoryApp.csproj.GenerateResource.cache
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\obj\Debug\LotteryHistoryApp.csproj.CoreCompileInputs.cache
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\bin\Debug\LotteryHistoryApp.exe.config
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\bin\Debug\LotteryHistoryApp.exe
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\bin\Debug\LotteryHistoryApp.pdb
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\bin\Debug\Newtonsoft.Json.dll
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\bin\Debug\Newtonsoft.Json.xml
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\obj\Debug\LotteryHistoryApp.csproj.CopyComplete
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\obj\Debug\LotteryHistoryApp.exe
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\obj\Debug\LotteryHistoryApp.pdb
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\obj\Debug\LotteryHistoryApp.AppConfig.resources
+F:\zuqiufunqiu\LotteryHistoryApp\LotteryHistoryApp\obj\Debug\LotteryHistoryApp.csproj.AssemblyReference.cache
